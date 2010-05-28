@@ -3,4 +3,4 @@ This small program shows the basics of using the GNU Project library gettext for
 
 Run this program by executing it from the command line:
 
-$ php gettext-example.php
+    $ php gettext-example.php

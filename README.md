@@ -16,13 +16,13 @@ If you just cloned this repository and it doesn't work, you have probably some p
 
 ## FAQ
 
-- ** How can I generate the files .PO /.POT/.MO from files PHP?**
+- **How can I generate the files .PO /.POT/.MO from files PHP?**
 
 You can use this command to generate the file .pot and from it you can use poedit to generate the file .po and .mo
 
     $ xgettext --from-code=UTF-8 -o messages.pot *.php
 
-- ** I already generated a file.po but I added some strings to my file.php and I should update the file.po **
+- **I already generated a file.po but I added some strings to my file.php and I should update the file.po**
 
 You can generate the file .po ever with the follow command:
 

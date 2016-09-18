@@ -32,7 +32,7 @@ and you can **merge** the file.pot with your file.po with this command:
 
     $ msgmerge file.po file.pot
 
-mgmerge can mess up some translations, so read the final file.po with **poedit**.
+msgmerge can mess up some translations, so read the final file.po with **poedit**.
 
 **PAY ATTENTION**: when you create a new file .po open it with poedit and save it to generate the file.mo
 
